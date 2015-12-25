@@ -22,4 +22,4 @@ Files and methods I did not write:
 - ExampleFT.java: processConferenceMediaByExample
 - ExampleFT.java: getCoverArtMap
 
-Everything else is code I wrote. Some of it is unfinished because I did not have enough time before my internship was over. I worked on this code for about four weeks. The code I did not write was written by a lead developer as a framework to help get me and two other engineers started on automation. 
+Everything else is code I wrote. Some of it is unfinished because I did not have enough time before my internship was over. I worked on this code for about four weeks while working on other things as well. The code I did not write was written by a lead developer as a framework to help get me and two other engineers started on automation. 
